@@ -85,5 +85,5 @@
 
 ### Ref ###
 
-[http://developer.bluetooth.cn/](http://developer.bluetooth.cn "Bluetooth 开发者门户")
+[http://developer.bluetooth.cn/](http://developer.bluetooth.cn "Bluetooth 开发者门户")<br>
 [http://developer.android.com/intl/zh-cn/guide/topics/connectivity/bluetooth-le.html](http://developer.android.com/intl/zh-cn/guide/topics/connectivity/bluetooth-le.html "Android API指南")
