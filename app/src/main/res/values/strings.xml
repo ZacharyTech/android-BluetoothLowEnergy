@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BluetoothLowEnergy</string>
+    <string name="ble_not_support">Device not support bluetooth low energy</string>
+    <string name="ble_rssi">Rssi: %d</string>
+    <string name="ble_scan">scan</string>
+    <string name="ble_stop">stop</string>
+    <string name="ble_connect">connect</string>
+    <string name="ble_disconnect">disconnect</string>
+    <string name="ble_address">Mac\t\t%s</string>
+    <string name="ble_state">Status\t\t%s</string>
+    <string name="ble_data">Data\t\t%s</string>
+
+    <string name="ble_property">Properties: </string>
+    <string name="ble_property_notify">Notify</string>
+    <string name="ble_property_read">Read</string>
+    <string name="ble_property_write">Write</string>
+    <string name="ble_property_write_no_response">Write no response</string>
+    <string name="ble_property_broadcast">Broadcast</string>
+    <string name="ble_property_indicate">Indicate</string>
+    <string name="ble_property_extended_props">Other</string>
+
+</resources>
